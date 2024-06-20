@@ -7,6 +7,7 @@ This project was built as part of our OSTL Project for 3rd semester, It's a basi
 ## Authors
 
 - [@klaudius](https://github.com/KIaudius)
+- [@abh21jay](https://github.com/abh21jay)
 
 
 ## Contributing
